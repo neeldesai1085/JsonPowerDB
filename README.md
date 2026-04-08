@@ -10,14 +10,14 @@ This project is not very advanced, it is mainly for learning and practice purpos
 ---
 
 ## Table of Contents
-- Description  
-- Benefits of using JsonPowerDB  
-- Scope of functionalities  
-- Examples of use  
-- Release History  
-- Project status  
-- Sources  
-- Other information  
+- [Description](#description)  
+- [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)  
+- [Scope of functionalities](#scope-of-functionalities)  
+- [Examples of use](#examples-of-use)  
+- [Release History](#release-history)  
+- [Project status](#project-status)  
+- [Sources](#sources)  
+- [Other information](#other-information)  
 
 ---
 
@@ -54,10 +54,16 @@ If any field is empty then it will show alert message.
 ---
 
 ## Release History
-This repository is part of learning process and will be updated time to time.  
-At starting, it contains basic HTML form and simple connection with JsonPowerDB.  
-Later more features and improvements will be added as learning goes ahead.  
-This is not final version and content will keep changing.
+This repository is part of learning process and it is growing step by step.  
+
+In beginning, it had only basic HTML form and simple connection with JsonPowerDB.  
+Now repository is updated and contains multiple folders for better understanding and structure.  
+
+- One folder contains initial basic implementation of form and database connection  
+- Another folder contains improved or modified version of same project with better approach  
+
+More folders and content will be added in future as learning goes ahead.  
+This is not final version and it will keep updating.
 
 ---
 
@@ -68,10 +74,10 @@ More features like update, delete and better UI can be added later.
 ---
 
 ## Sources
-- :contentReference[oaicite:1]{index=1} website  
+- Login2Explore website  
 - Course materials  
 - Given PDF file  
-- GitHub repository  
+- GitHub repository: https://github.com/neeldesai1085/JsonPowerDB  
 
 ---
 
