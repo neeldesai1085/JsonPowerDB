@@ -57,13 +57,14 @@ If any field is empty then it will show alert message.
 This repository is part of learning process and it is growing step by step.  
 
 In beginning, it had only basic HTML form and simple connection with JsonPowerDB.  
-Now repository is updated and contains multiple folders for better understanding and structure.  
+After that, project structure is improved and now repository contains multiple folders.  
 
-- One folder contains initial basic implementation of form and database connection  
-- Another folder contains improved or modified version of same project with better approach  
+- First folder contains basic implementation of JsonPowerDB form  
+- Second folder contains improved version with better code and structure  
+- Third folder contains more advanced or extended work based on same concept  
 
 More folders and content will be added in future as learning goes ahead.  
-This is not final version and it will keep updating.
+This is not final version and it will keep updating. :contentReference[oaicite:1]{index=1}  
 
 ---
 
